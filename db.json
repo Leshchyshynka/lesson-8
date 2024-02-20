@@ -1,0 +1,237 @@
+{
+  "discounts": [
+    {
+      "id": 1,
+      "name": "Рол тижня",
+      "title": "50% знижки на \"Рол тижня\"",
+      "description": "- Щотижня діє знижка 50% на один з ролів у нашому меню <br>\n- “Рол тижня” ви можете знайти на головній сторінці нашого сайту. <br>\n- Знижка діє при мінімальній сумі замовлення 300 грн. <br>\n- Ця акція не поєднується з іншими акціями ",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/50%25.png?alt=media&token=222b45e2-da9a-489b-953d-aba6f18cade3",
+      "data": "2023-01-21T19:57:40.027Z"
+    },
+    {
+      "id": 2,
+      "name": "\"3+1=5\"",
+      "title": "\"3+1=5\"",
+      "description": "\nЗамовляйте 5 ролів, а платіть за 4.<br>\nЗамовляйте 10 ролів, а платіть за 8 і так далі.<br>\nБезкоштовним вважається рол з найменшою вартістю.<br>\nЦя акція не поєднується з іншими акціями.",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/nav-img-sets.svg?alt=media&token=2e74db72-80cf-4733-8d8a-13fd416b9eab",
+      "data": "2023-01-21T19:58:09.588Z"
+    },
+    {
+      "name": "День народження з Моносуші",
+      "title": "День народження з Моносуші",
+      "description": "При оформленні замовлення вкажіть промокод “День народження” та отримайте “Запечений сет” безкоштовно до Вашого замовлення. <br>\nТермін дії акції – День народження плюс один день до та після свята. <br>\nЦя акція починає діяти при мінімальній сумі замовлення 750 грн. <br>\nДля отримання подарунку іменинник має показати кур’єру оригінал документу, що підтверджує його дату народження. <br>\nЦя акція не поєднується з іншими акціями.",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/mono-sushi-40aba.appspot.com/o/discounts%2FhappyB.png?alt=media&token=11f69b0f-8fee-4178-afec-75155f7af379",
+      "data": "2023-01-21T19:58:27.387Z",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "name": "роли",
+      "path": "roli",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/nav-img-rolls.svg?alt=media&token=7fa62923-0f03-4c55-b183-d735aefe4eeb",
+      "id": 1
+    },
+    {
+      "name": "сети",
+      "path": "setu",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/nav-img-sets.svg?alt=media&token=2e74db72-80cf-4733-8d8a-13fd416b9eab",
+      "id": 2
+    },
+    {
+      "name": "напої",
+      "path": "drinks",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/nav-img-drinks.svg?alt=media&token=f4735704-a676-4c37-a469-051bf8627f41",
+      "id": 3
+    },
+    {
+      "name": "coycи",
+      "path": "sousi",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/icon.svg?alt=media&token=ef98c6e8-c9df-4ba1-a13b-ca5044085194",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "category": {
+        "name": "роли",
+        "path": "roli",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/nav-img-rolls.svg?alt=media&token=7fa62923-0f03-4c55-b183-d735aefe4eeb",
+        "id": 1
+      },
+      "name": "Філадельфія з лососем",
+      "path": "роли",
+      "description": "Риc, крем сир, огірок, лосось",
+      "weight": 280,
+      "price": 232,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/nav-img-rolls.svg?alt=media&token=7fa62923-0f03-4c55-b183-d735aefe4eeb",
+      "count": [
+        1
+      ],
+      "id": 1
+    },
+    {
+      "category": {
+        "name": "роли",
+        "path": "roli",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/nav-img-rolls.svg?alt=media&token=7fa62923-0f03-4c55-b183-d735aefe4eeb",
+        "id": 1
+      },
+      "name": "Макі з тунцем – 50%",
+      "path": "роли",
+      "description": "Рис, норі, тунець",
+      "weight": 120,
+      "price": 76,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/nav-img-rolls.svg?alt=media&token=7fa62923-0f03-4c55-b183-d735aefe4eeb",
+      "count": [
+        1
+      ],
+      "id": 2
+    },
+    {
+      "category": {
+        "name": "роли",
+        "path": "roli",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/nav-img-rolls.svg?alt=media&token=7fa62923-0f03-4c55-b183-d735aefe4eeb",
+        "id": 1
+      },
+      "name": "Філадельфія в кунжуті",
+      "path": "роли",
+      "description": " Рис, крем сир, огірок, лосось, кунжу",
+      "weight": 240,
+      "price": 208,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/filadelfiya-v-kunzhuti.jpg?alt=media&token=f867fc86-3790-4282-9b01-9bbce0260495https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/filadelfiya-v-kunzhuti.jpg?alt=media&token=f867fc86-3790-4282-9b01-9bbce0260495",
+      "count": [
+        1
+      ],
+      "id": 3
+    },
+    {
+      "category": {
+        "name": "pоли",
+        "path": "roli",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-a39e1.appspot.com/o/categories%2Fnav-img-rolls.svg?alt=media&token=995a7272-6f7b-4bc9-aa50-ed104bcfa9de",
+        "id": 1
+      },
+      "name": "Філадельфія з тунцем",
+      "path": "роли",
+      "description": "Риc, крем сир, авокадо, тунець, cоус солодкий чилі",
+      "weight": 269,
+      "price": 270,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/photo_2022-07-09_13-28-56.jpg.pagespeed.ce.xde1HkPhrW.jpg?alt=media&token=78aef78b-8e04-4bba-9ab2-0ebdcd52db95",
+      "count": [
+        1
+      ],
+      "id": 4
+    },
+    {
+      "category": {
+        "name": "сети",
+        "path": "setu",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/nav-img-sets.svg?alt=media&token=2e74db72-80cf-4733-8d8a-13fd416b9eab",
+        "id": 2
+      },
+      "name": "Сет Філадельфія",
+      "path": "сети",
+      "description": "Філадельфія: з лососем / в кунжуті / з тунцем / з вугрем",
+      "weight": 1070,
+      "price": 950,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/mono-sushi-40aba.appspot.com/o/products%2Fsetu-filadelfia.jpg?alt=media&token=0c85764c-1b5e-4b82-8bc7-c7be8c6b7c04",
+      "count": [
+        1
+      ],
+      "id": 5
+    },
+    {
+      "category": {
+        "name": "сети",
+        "path": "setu",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/nav-img-sets.svg?alt=media&token=2e74db72-80cf-4733-8d8a-13fd416b9eab",
+        "id": 2
+      },
+      "name": "Запечений сет",
+      "path": "сети",
+      "description": "Запечений сирний з креветкою\nЗапечений моно з лососем",
+      "weight": 680,
+      "price": 510,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/mono-sushi-40aba.appspot.com/o/products%2Fscaled.jpg?alt=media&token=9e488efe-4f12-4014-a4bf-bc06973be6bb",
+      "count": [
+        1
+      ],
+      "id": 6
+    },
+    {
+      "category": {
+        "name": "напої",
+        "path": "drinks",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-a39e1.appspot.com/o/categories%2Fnav-img-drinks.svg?alt=media&token=9c0aa567-2300-4059-9086-6ba1bce5fc51",
+        "id": 3
+      },
+      "name": "Fanta апельсин",
+      "path": "напої",
+      "description": "--",
+      "weight": 0.33,
+      "price": 31,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/mono-sushi-40aba.appspot.com/o/products%2Ffanta.jpg?alt=media&token=9552f60f-fe01-4209-8c1e-e45431335fd1",
+      "count": [
+        1
+      ],
+      "id": 8
+    },
+    {
+      "category": {
+        "name": "cоуси",
+        "path": "sousi",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-a39e1.appspot.com/o/categories%2Ficon.svg?alt=media&token=bc58fc52-2bca-403b-9a2a-00c8624e29b0",
+        "id": 4
+      },
+      "name": "Васабі",
+      "path": "соуси",
+      "description": "--",
+      "weight": 15,
+      "price": 12,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/mono-sushi-40aba.appspot.com/o/products%2Fvasabi.png?alt=media&token=89659303-d345-4fe4-8d8a-be77012385b8",
+      "count": [
+        1
+      ],
+      "id": 9
+    },
+    {
+      "category": {
+        "name": "cоуси",
+        "path": "sousi",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-a39e1.appspot.com/o/categories%2Ficon.svg?alt=media&token=bc58fc52-2bca-403b-9a2a-00c8624e29b0",
+        "id": 4
+      },
+      "name": "Соєвий соус",
+      "path": "соуси",
+      "description": "--",
+      "weight": 150,
+      "price": 24,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/mono-sushi-40aba.appspot.com/o/products%2Fsoevi.jpg?alt=media&token=de460f45-8be3-456d-837d-909af4bc9458",
+      "count": [
+        1
+      ],
+      "id": 10
+    },
+    {
+      "category": {
+        "name": "напої",
+        "path": "drinks",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/lesson-8-4e0af.appspot.com/o/nav-img-drinks.svg?alt=media&token=f4735704-a676-4c37-a469-051bf8627f41",
+        "id": 3
+      },
+      "name": "Pepsi",
+      "path": "напої",
+      "description": "---",
+      "weight": 0.33,
+      "price": 31,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/mono-sushi-40aba.appspot.com/o/products%2Fpepsicola.jpg?alt=media&token=70cfb9e1-29f7-4e2e-93fb-02a3837244ce",
+      "count": [
+        1
+      ],
+      "id": 11
+    }
+  ]
+
+}
